@@ -1,4 +1,4 @@
-// Il nostgro primo component nella forma piu' semplice, functional component, cioe' scritto come una funzione
+// Il nostro primo component nella forma piu' semplice, functional component, cioe' scritto come una funzione
 // I class components sono piu potenti e vengono utilizzati per logiche piu complesse: di fatto sono diventati lo standard dei react components
 
 // Il nome della funzione determina il nome del componente
